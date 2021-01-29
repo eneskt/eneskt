@@ -1,4 +1,4 @@
-# Enes Kt
+# Enes Kutlay
 Hello 👋
 I'm **Enes Kutlay** learning front end development.
 I share what I learned and my projects as open source.
