@@ -1,7 +1,10 @@
-# Enes Kutlay
-Hello 👋
-I'm **Enes Kutlay** learning front end development.
-I share what I learned and my projects as open source.
+<h1 align="center">Hi 👋, I'm Enes Kutlay</h1>
+<h3 align="center">I am interested in web development and specifically front-end development.</h3>
 
-## Contact & İnfo
-You can visit **[my website](https://eneskutlay.dev)** to get detailed information and contact me ✉️
+- 👨‍💻 My personal website [eneskutlay.dev](https://eneskutlay.dev/)
+
+- 📝 My blog page [blog.eneskutlay.dev](https://blog.eneskutlay.dev/)
+
+- 👨‍💼 My Linkedin profile [Linkedin](https://www.linkedin.com/in/eneskutlay/)
+
+- 📫 How to reach me **contact@eneskutlay.dev**
